@@ -13,5 +13,7 @@ This project has the following key missions:
   Designing and developing optimal semiconductor devices to run the simulations.
 - **Placing in Planetary Orbits**:
   Deploying the developed systems and societal models into the orbits of planets in the solar system to achieve a sustainable society.
+- **Coding Compassion**:
+  Cherishing life and emotions, shaping the heart of compassion into form.
   
 
