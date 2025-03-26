@@ -15,5 +15,15 @@ This project has the following key missions:
   Deploying the developed systems and societal models into the orbits of planets in the solar system to achieve a sustainable society.
 - **Sustainable Devotion**:
   Shaping the heart of compassion into equations.
+
+# 💬 Message
+> "Hey Elon, how's the development of the life-experiential game coming along?"
+> 
+> "Hey, Sam Altman, how's the world-building coming along?"
+> 
+> "Looks like you're struggling to raise funds using ChatGPT."
+> 
+> "Hey, Donald Trump. How's the world experiment going? Have you found a way to achieve world peace?"
+  
   
 
