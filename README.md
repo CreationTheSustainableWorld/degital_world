@@ -14,6 +14,6 @@ This project has the following key missions:
 - **Placing in Planetary Orbits**:
   Deploying the developed systems and societal models into the orbits of planets in the solar system to achieve a sustainable society.
 - **Sustainable Devotion**:
-  Shaping Compassion into Equations.
+  Shaping the heart of compassion into equations.
   
 
