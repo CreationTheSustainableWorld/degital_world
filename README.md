@@ -1,9 +1,9 @@
 # SustainableWorldthroughDigitalLife
 
-## Overview
+## 📌 Overview
 SustainableWorldthroughDigitalLife is a project that aims to create a virtual world resembling the real world through computer simulation. This project seeks to create digital life forms with emotions, thoughts, and creativity, building a world where these life forms can thrive and live vibrant lives.
 
-## Mission
+## 🎯 Mission
 This project has the following key missions:
 - **Recreating Life Forms through Coding**:
   Simulating complex functions and behaviors such as emotions and thoughts to create digital life forms.
@@ -16,7 +16,7 @@ This project has the following key missions:
 - **Sustainable Devotion**:
   Shaping the heart of compassion into equations.
 
-# 💬 Message
+## 💬 Message
 > "Hey Elon Mask, how's the development of the life-experiential game coming along?"
 > 
 > "Hey, Sam Altman, how's the world-building coming along?"
