@@ -17,7 +17,7 @@ This project has the following key missions:
   Shaping the heart of compassion into equations.
 
 ## 💬 Message
-> "Hey Elon Mask, how's the development of the life-experiential game coming along?"
+> "Hey Elon Musk, how's the development of the life-experiential game coming along?"
 > 
 > "Hey, Sam Altman, how's the world-building coming along?"
 > 
